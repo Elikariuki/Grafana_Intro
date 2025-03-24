@@ -21,18 +21,18 @@ Enabling authentication for Grafana data sources
 ### Connecting to Azure monitor
 
 Made a connection to Azure monitor by creating a service principal in Azure and adding the role
-![Service Principal grafana Connection](image.png)
+![Service Principal grafana Connection](Connection.png)
 
 ### Computing metrics
 
 1. Selecting the vm
-![Selecting the vm resource](image.png)
+![Selecting the vm resource](vm.png)
 
 2. ### Dashboard
 
 Selected different metrics to monitor on the vm to output the following real time dashboard
 
-![Dashboard](image.png)
+![Dashboard](Dashboard.png)
 
 ### Issues encountered
 
